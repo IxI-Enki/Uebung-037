@@ -32,6 +32,10 @@
 
 # **SPOILER**  
 
+### Ausgabe: 
+![ausgabe](https://github.com/IxI-Enki/Uebung-037/assets/138018029/7c4167e9-7f69-4ef5-b51d-acd9660ac417)
+
+
 > [!TIP]
 >
 > *[C#] Visual Studio :*
